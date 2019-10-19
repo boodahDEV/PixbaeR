@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/mdchiari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4e48d3457a81a6f32f2c5f3b83903784/res/values-night-v8/values-night-v8.xml",

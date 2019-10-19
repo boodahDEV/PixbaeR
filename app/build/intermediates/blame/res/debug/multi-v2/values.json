@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/mdchiari/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1f115703d1a5fc43f4e57d0c84a31967/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/res/values/styles.xml",
+                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "6,10,13",
                         "startColumns": "4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/res/values/colors.xml",
+                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "4,7,13,16,10,19,5,11,14,8,17,6,12,15,9,18,3",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -56,23 +56,6 @@
                         "startOffsets": "1299,1982,2026,2071,2117,2163,2887,2932,2978,3025,3072,3788,3831,3875,3920,3965,5634",
                         "endColumns": "41,43,44,45,45,42,44,45,46,46,43,42,43,44,44,41,41",
                         "endOffsets": "1336,2021,2066,2112,2158,2201,2927,2973,3020,3067,3111,3826,3870,3915,3960,4002,5671"
-                    }
-                },
-                {
-                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "8,19,18,9,20,21,3,17,16,10,11,12,6,5,4,7,13,15,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "328,914,863,379,959,1010,56,809,744,426,475,524,220,159,111,269,573,677,619",
-                        "endColumns": "50,44,50,46,50,48,54,53,64,48,48,48,48,60,47,58,45,66,57",
-                        "endOffsets": "374,954,909,421,1005,1054,106,858,804,470,519,568,264,215,154,323,614,739,672"
-                    },
-                    "to": {
-                        "startLines": "1738,1739,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1751,1752,1753,1754,1756,1757,1758",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "97617,97668,97713,97764,97811,97862,97911,97966,98020,98085,98134,98183,98285,98334,98395,98443,98573,98619,98686",
-                        "endColumns": "50,44,50,46,50,48,54,53,64,48,48,48,48,60,47,58,45,66,57",
-                        "endOffsets": "97663,97708,97759,97806,97857,97906,97961,98015,98080,98129,98178,98227,98329,98390,98438,98497,98614,98681,98739"
                     }
                 },
                 {
@@ -95,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/res/values/attrs.xml",
+                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/res/values/attrs.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -111,6 +94,23 @@
                         "endLines": "1500",
                         "endColumns": "24",
                         "endOffsets": "82394"
+                    }
+                },
+                {
+                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "1630,1631",
+                        "startColumns": "4,4",
+                        "startOffsets": "90614,90672",
+                        "endColumns": "57,55",
+                        "endOffsets": "90667,90723"
                     }
                 },
                 {
@@ -150,20 +150,20 @@
                     }
                 },
                 {
-                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/res/values/dimens.xml",
+                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "89,147",
-                        "endColumns": "57,55",
-                        "endOffsets": "142,198"
+                        "startLines": "8,19,18,9,20,21,3,17,16,10,11,12,6,5,4,7,13,15,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "328,914,863,379,959,1010,56,809,744,426,475,524,220,159,111,269,573,677,619",
+                        "endColumns": "50,44,50,46,50,48,54,53,64,48,48,48,48,60,47,58,45,66,57",
+                        "endOffsets": "374,954,909,421,1005,1054,106,858,804,470,519,568,264,215,154,323,614,739,672"
                     },
                     "to": {
-                        "startLines": "1630,1631",
-                        "startColumns": "4,4",
-                        "startOffsets": "90614,90672",
-                        "endColumns": "57,55",
-                        "endOffsets": "90667,90723"
+                        "startLines": "1738,1739,1740,1741,1742,1743,1744,1745,1746,1747,1748,1749,1751,1752,1753,1754,1756,1757,1758",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "97617,97668,97713,97764,97811,97862,97911,97966,98020,98085,98134,98183,98285,98334,98395,98443,98573,98619,98686",
+                        "endColumns": "50,44,50,46,50,48,54,53,64,48,48,48,48,60,47,58,45,66,57",
+                        "endOffsets": "97663,97708,97759,97806,97857,97906,97961,98015,98080,98129,98178,98227,98329,98390,98438,98497,98614,98681,98739"
                     }
                 }
             ]

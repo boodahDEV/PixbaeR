@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/res/values-v21/styles.xml",
+                    "source": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/res/values-v21/styles.xml",
                     "from": {
                         "startLines": "6,15,19",
                         "startColumns": "4,4,4",

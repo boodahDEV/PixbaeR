@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
                     "source": "/Users/mdchiari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a497d9138ed5dda22eee02d83416e2ed/res/values-ro/values-ro.xml",

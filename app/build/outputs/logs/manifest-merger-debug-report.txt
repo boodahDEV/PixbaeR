@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:support-v4:28.0.0] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ea8a954b21b6976b378cbe75547bd62e/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4e48d3457a81a6f32f2c5f3b83903784/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.KalebKE:FSensor:v1.2.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/FSensor-v1.2.1.aar/039dc92ba6eb174e0721d6906c5c034e/AndroidManifest.xml:2:1-17:12
@@ -33,39 +33,39 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mdchiari/.gradle/cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/aeb67a64cc8020d5acf91bb9f28f032e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2ecd17093ae76684bfdfa129e2965b08/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5342e89295efdf6510c26e0e4d11bc52/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
 	package
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:3:5-55
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:1-29:12
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.sensor.gyroscope
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:5:5-93
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:5:5-93
 	android:required
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:5:68-91
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:5:68-91
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:5:19-67
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:5:19-67
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:6:5-81
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:6:5-81
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:7:5-84
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:7:5-84
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:7:22-81
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:7:22-81
 application
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:9:5-27:19
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:9:5-27:19
 MERGED from [com.github.KalebKE:FSensor:v1.2.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/FSensor-v1.2.1.aar/039dc92ba6eb174e0721d6906c5c034e/AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.KalebKE:FSensor:v1.2.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/FSensor-v1.2.1.aar/039dc92ba6eb174e0721d6906c5c034e/AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:support-compat:28.0.0] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/a497d9138ed5dda22eee02d83416e2ed/AndroidManifest.xml:22:5-94
@@ -77,41 +77,41 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mdchiari/.gr
 	android:supportsRtl
 		ADDED from [com.github.KalebKE:FSensor:v1.2.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/FSensor-v1.2.1.aar/039dc92ba6eb174e0721d6906c5c034e/AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:12:9-41
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:11:9-52
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:11:9-52
 	android:allowBackup
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.kircherelectronics.gyroscopeexplorer.activity.GyroscopeActivity
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:14:9-23:20
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:14:9-23:20
 	android:screenOrientation
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:17:13-49
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:17:13-49
 	android:label
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:16:13-45
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:16:13-45
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:15:13-95
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:15:13-95
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:18:13-22:29
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:19:17-69
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:19:25-66
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:21:27-74
 activity#com.kircherelectronics.gyroscopeexplorer.activity.ConfigActivity
-ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:24:9-26:52
+ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:24:9-26:52
 	android:screenOrientation
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:26:13-49
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:26:13-49
 	android:name
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml:25:13-92
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml:25:13-92
 uses-sdk
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:support-v4:28.0.0] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ea8a954b21b6976b378cbe75547bd62e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/ea8a954b21b6976b378cbe75547bd62e/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4e48d3457a81a6f32f2c5f3b83903784/AndroidManifest.xml:20:5-44
@@ -170,13 +170,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mdchiari/.gradle
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2ecd17093ae76684bfdfa129e2965b08/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5342e89295efdf6510c26e0e4d11bc52/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/mdchiari/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5342e89295efdf6510c26e0e4d11bc52/AndroidManifest.xml:20:5-44
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/src/main/AndroidManifest.xml
