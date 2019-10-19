@@ -1,0 +1,4 @@
+#Sat Oct 19 18:07:28 EST 2019
+base.0=/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/OutOfThisWorld/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
