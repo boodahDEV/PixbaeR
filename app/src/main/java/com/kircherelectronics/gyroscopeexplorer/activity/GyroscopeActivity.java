@@ -62,6 +62,7 @@ public class GyroscopeActivity extends AppCompatActivity implements SensorEventL
     private float[] magnetic = new float[3];
     private float[] rotation = new float[3];
 
+
     private Mode mode = Mode.GYROSCOPE_ONLY;
 
     // The gauge views. Note that these are views and UI hogs since they run in

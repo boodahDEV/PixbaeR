@@ -30,6 +30,7 @@
         android:layout_marginLeft="10dp"
         android:layout_marginTop="40dp"
         android:layout_marginEnd="10dp"
+        android:id="@+id/btntitan"
         android:layout_marginRight="10dp"
         android:src="@drawable/titanplanet"
         app:layout_constraintEnd_toEndOf="parent"

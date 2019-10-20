@@ -1,4 +1,4 @@
-#Sat Oct 19 20:29:17 EST 2019
+#Sat Oct 19 22:30:26 EST 2019
 base.0=/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
