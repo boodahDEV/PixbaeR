@@ -5,7 +5,7 @@
     android:orientation="vertical"
     android:weightSum="10">
 
-    <android.support.v7.widget.Toolbar
+    <!--<android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
@@ -188,6 +188,6 @@
             android:theme="@style/AppTheme.BlueButton"
             android:textStyle="bold"
             app:drawableBottomCompat="@drawable/ic_timeline_white_48px"/>
-    </LinearLayout>
+    </LinearLayout>-->
 
 </LinearLayout>

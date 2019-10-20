@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Oct 19 18:13:33 EST 2019
+#Sat Oct 19 20:29:18 EST 2019
 0.baseType=DIRECTORY
 0.base=/Users/mdchiari/OneDrive - Universidad de Panamá/Proyectos/PixbaeR/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex

@@ -97,7 +97,7 @@ public class GyroscopeActivity extends AppCompatActivity implements SensorEventL
         meanFilter = new MeanFilter();
         sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
 
-        initUI();
+        //initUI();
     }
 
     @Override
@@ -290,7 +290,7 @@ public class GyroscopeActivity extends AppCompatActivity implements SensorEventL
                 ConfigActivity.COMPLIMENTARY_QUATERNION_COEFF_KEY, "0.5"));
     }
 
-    private void initStartButton() {
+    /*private void initStartButton() {
         final VectorDrawableButton button = findViewById(R.id.button_start);
 
         button.setOnClickListener(new View.OnClickListener() {
@@ -305,11 +305,11 @@ public class GyroscopeActivity extends AppCompatActivity implements SensorEventL
             }
         });
     }
-
+*/
     /**
      * Initialize the UI.
      */
-    private void initUI() {
+   /* private void initUI() {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         if(getSupportActionBar()!=null) {
@@ -326,7 +326,7 @@ public class GyroscopeActivity extends AppCompatActivity implements SensorEventL
         gaugeTiltCalibrated = findViewById(R.id.gauge_tilt_calibrated);
 
         initStartButton();
-    }
+    }*/
 
     private void reset() {
 
