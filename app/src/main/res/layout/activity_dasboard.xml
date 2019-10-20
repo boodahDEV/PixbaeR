@@ -24,16 +24,17 @@
         app:layout_constraintTop_toTopOf="parent"></TextView>
 
     <ImageView
+        android:id="@+id/btntitan"
         android:layout_width="250dp"
         android:layout_height="200dp"
         android:layout_marginStart="10dp"
         android:layout_marginLeft="10dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="72dp"
         android:layout_marginEnd="10dp"
-        android:id="@+id/btntitan"
         android:layout_marginRight="10dp"
         android:src="@drawable/titanplanet"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView"></ImageView>
 
